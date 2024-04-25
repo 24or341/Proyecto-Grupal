@@ -1,0 +1,23 @@
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\bin\Debug\EXAU3 - CASTAÑEDA.exe.config
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\bin\Debug\EXAU3 - CASTAÑEDA.exe
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\bin\Debug\EXAU3 - CASTAÑEDA.pdb
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3___CASTAÑEDA.Frm_Ejercicio01.resources
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3___CASTAÑEDA.Frm_Ejercicio02.resources
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3___CASTAÑEDA.Properties.Resources.resources
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.exe
+C:\Users\HP\source\repos\EXAU3 - CASTAÑEDA\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.pdb
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\bin\Debug\EXAU3 - CASTAÑEDA.exe.config
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\bin\Debug\EXAU3 - CASTAÑEDA.exe
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\bin\Debug\EXAU3 - CASTAÑEDA.pdb
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3___CASTAÑEDA.Frm_Ejercicio02.resources
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3___CASTAÑEDA.Properties.Resources.resources
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.exe
+C:\Users\Jorge\Desktop\examenu3rec-24or341-master\EXAU3 - CASTAÑEDA\obj\Debug\EXAU3 - CASTAÑEDA.pdb
